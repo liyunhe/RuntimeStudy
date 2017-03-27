@@ -9,5 +9,7 @@
 #import "Person.h"
 
 @implementation Person
-
+-(void)eat{
+    NSLog(@"调用我了");
+}
 @end

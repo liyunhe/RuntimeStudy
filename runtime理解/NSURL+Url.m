@@ -6,9 +6,9 @@
 //  Copyright © 2017年 mrlee. All rights reserved.
 //
 
-#import "NSURL+url.h"
+#import "NSURL+Url.h"
 #import <objc/runtime.h>
-@implementation NSURL (url)
+@implementation NSURL (Url)
 //+(instancetype)URLWithString:(NSString *)URLString{
 
 //}

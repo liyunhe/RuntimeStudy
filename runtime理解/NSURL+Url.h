@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSURL (url)
+@interface NSURL (Url)
 +(instancetype)YH_URLWithStr:(NSString *)str;
 @end
